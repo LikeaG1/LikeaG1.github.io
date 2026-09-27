@@ -8,10 +8,10 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Information and Computer Engineering</p>
-    <p>Hansung University</p>
-    <p>Seoul, South Korea</p>
+#  more_info: >
+#    <p>Department of Information and Computer Engineering</p>
+#    <p>Hansung University</p>
+#    <p>Seoul, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, hello, hello!
+Department of Information and Computer Engineering
+Hansung University
+Seoul, South Korea
 
 [Google Scholar](https://scholar.google.com/citations?user=JYE3J1MAAAAJ&hl=en)
 [ResearchGate](https://www.researchgate.net/profile/Jiwon-Lee-26)
