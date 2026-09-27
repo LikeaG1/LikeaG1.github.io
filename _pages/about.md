@@ -28,9 +28,14 @@ latest_posts:
 ---
 
 Department of Information and Computer Engineering
+
 Hansung University
+
 Seoul, South Korea
 
+
 [Google Scholar](https://scholar.google.com/citations?user=JYE3J1MAAAAJ&hl=en)
+
 [ResearchGate](https://www.researchgate.net/profile/Jiwon-Lee-26)
+
 [Academia](https://independent.academia.edu/%EC%A7%80%EC%9B%90%EC%9D%B428)
