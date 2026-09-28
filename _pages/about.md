@@ -27,9 +27,9 @@ latest_posts:
 
 Hello, hello, hello!
 
-I received the BE degree from the Department of Software, Catholic University of Pusan, South Korea, in 2018, and the MS degree from the Graduate School of Culture Technology, KAIST, South Korea, in 2021. I'm currently pursuing a PhD in the Department of Information and Computer Engineering at Hansung University, South Korea.
+I received the BE degree from the Department of Software, Catholic University of Pusan, South Korea, in 2018, and the MS degree from the Graduate School of Culture Technology, KAIST, South Korea, in 2021. I'm currently pursuing a PhD in the Department of Information and Computer Engineering at Hansung University, South Korea. My research interests include the Metaverse (virtual reality, augmented reality, mixed reality, extended reality), HCI, and computer graphics applications.
 
-My research interests include the Metaverse (virtual reality, augmented reality, mixed reality, extended reality), HCI, and computer graphics applications.
+Contact: mpm11@hansung.ac.kr
 
 
 [Google Scholar](https://scholar.google.com/citations?user=JYE3J1MAAAAJ&hl=en)
