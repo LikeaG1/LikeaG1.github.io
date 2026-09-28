@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Forever love, Eva.
+subtitle: Department of Information and Computer Engineering, Hansung University, Seoul, South Korea
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Information and Computer Engineering</p>
-    <p>Hansung University</p>
-    <p>Seoul, South Korea</p>
+    <p>Forever love, Eva.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
