@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: Research papers and patents.
 nav: true
 nav_order: 1
 ---
