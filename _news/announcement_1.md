@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-한성대 연구팀, 혼합현실 문화유산 콘텐츠로 우수학부논문상
-https://www.naeil.com/news/read/596512?ref=naver
+[[내일신문] 한성대 연구팀, 혼합현실 문화유산 콘텐츠로 우수학부논문상](https://www.naeil.com/news/read/596512?ref=naver)
