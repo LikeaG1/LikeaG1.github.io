@@ -1,34 +1,26 @@
 "kim":
-  - firstname: ["Jinmo", "J.", "J. K."]
+  - firstname: ["Jinmo", "J."]
     url: https://scholar.google.com/citations?user=wiWSKyQAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"cooperstock":
+  - firstname: ["Jeremy", "J.", "J. R.", "Jeremy R."]
+    url: https://scholar.google.com/citations?user=QnLo6bAAAAAJ&hl=en&oi=ao
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"noh":
+  - firstname: ["Junyong", "J."]
+    url: https://scholar.google.com/citations?user=u75_aBgAAAAJ&hl=en
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"seo":
+  - firstname: ["Kwanggyoon", "K."]
+    url: https://scholar.google.com/citations?hl=en&user=AQt43oYAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"na":
+  - firstname: ["Giri", "G."]
+    url: https://scholar.google.com/citations?hl=en&user=RPlTFuIAAAAJ
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+# "bach":
+#   - firstname: ["Johann Sebastian", "J. S."]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
