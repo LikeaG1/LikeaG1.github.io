@@ -9,11 +9,11 @@ scholar_userid: JYE3J1MAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social_01: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: 상상부기 1.png # can be png, svg, jpg
+  logo: assets/img/상상부기 1.png # can be png, svg, jpg
   title: Hansung University
   url: https://hansung.ac.kr/sites/hansung/index.do
   
 custom_social_02: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: PNGraphics.png # can be png, svg, jpg
+  logo: assets/img/PNGraphics.png # can be png, svg, jpg
   title: PNGraphics
   url: https://sites.google.com/view/jmkim/home
