@@ -5,21 +5,21 @@
 email: mpm11@hansung.ac.kr # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
+orcid_id: https://orcid.org/0000-0001-6848-5110
 scholar_userid: JYE3J1MAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0001-6848-5110
 research_gate_profile: https://www.researchgate.net/profile/Jiwon-Lee-26
 academia_edu: https://independent.academia.edu/%EC%A7%80%EC%9B%90%EC%9D%B428
 github_username: LikeaG1
 linkedin_username: www.linkedin.com/in/jiwon-lee-1ab1063ba
 
-custom_social_01: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/상상부기 1.png # can be png, svg, jpg
-  title: Hansung University
-  url: https://hansung.ac.kr/sites/hansung/index.do
+# custom_social_01: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: assets/img/상상부기 1.png # can be png, svg, jpg
+#   title: Hansung University
+#   url: https://hansung.ac.kr/sites/hansung/index.do
   
-custom_social_02: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/PNGraphics.png # can be png, svg, jpg
-  title: PNGraphics
-  url: https://sites.google.com/view/jmkim/home
+# custom_social_02: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: assets/img/PNGraphics.png # can be png, svg, jpg
+#   title: PNGraphics
+#   url: https://sites.google.com/view/jmkim/home
