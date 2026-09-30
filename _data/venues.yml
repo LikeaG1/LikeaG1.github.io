@@ -1,6 +1,6 @@
 "XR":
   # url: https://aapt.scitation.org/journal/ajp
-  color: "#0F172A"
+  color: "#0047AB"
 
 "IVA":
   # url: https://journals.aps.org/
@@ -11,7 +11,7 @@
 "Computer Graphics":
   color: "#ff5b00"
 
-
+# Magenta - #b509ac
 # • #FF5B00 — International Orange
 # • #009F36 — Vibrant Green
 # • #0077B6 — Star Command Blue
@@ -28,3 +28,7 @@
 # • #0077B6 (Star Command Blue)
 # • #F8F9FA (Off-White / Light Neutral)
 # • #212529 (Dark Charcoal / Dark Neutral)
+# 1. Electric Cobalt (#0047AB)
+# 2. Deep Midnight Blue (#0F172A)
+# 3. Bright Cyan/Turquoise (#00D2FF)
+# 4. Slate Blue (#4A607A)
