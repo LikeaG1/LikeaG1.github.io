@@ -1,6 +1,6 @@
 "XR":
   # url: https://aapt.scitation.org/journal/ajp
-  color: "#0047AB"
+  color: "#00D2FF"
 
 "IVA":
   # url: https://journals.aps.org/
@@ -11,6 +11,7 @@
 "Computer Graphics":
   color: "#ff5b00"
 
+# Navy - 00369f
 # Magenta - #b509ac
 # • #FF5B00 — International Orange
 # • #009F36 — Vibrant Green
