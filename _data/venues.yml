@@ -1,11 +1,11 @@
 "Journal":
-  color: "#00D2FF"
+  color: "#b509ac"
 
 "Conference":
-  color: "#ff5b00"
+  color: "#00D2FF"
 
 "Patent":
-  color: "#b509ac"
+  color: "#ff5b00"
 
 # "XR":
 #   # url: https://aapt.scitation.org/journal/ajp
