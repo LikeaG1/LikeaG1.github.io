@@ -1,9 +1,6 @@
 "kim":
   - firstname: ["Jinmo", "J.", "Jin Mo"]
     url: https://scholar.google.com/citations?user=wiWSKyQAAAAJ&hl=en
-"김진모":
-  - firstname: 
-    url: https://scholar.google.com/citations?user=wiWSKyQAAAAJ&hl=en
 
 "cooperstock":
   - firstname: ["Jeremy", "J.", "J. R.", "Jeremy R.", "JR"]
@@ -12,22 +9,13 @@
 "noh":
   - firstname: ["Junyong", "J."]
     url: https://scholar.google.com/citations?user=u75_aBgAAAAJ&hl=en
-"노준용":
-  - firstname: 
-    url: https://scholar.google.com/citations?user=u75_aBgAAAAJ&hl=en
 
 "seo":
   - firstname: ["Kwanggyoon", "K."]
     url: https://scholar.google.com/citations?hl=en&user=AQt43oYAAAAJ
-"서광균":
-  - firstname: 
-    url: https://scholar.google.com/citations?hl=en&user=AQt43oYAAAAJ
 
 "na":
   - firstname: ["Giri", "G."]
-    url: https://scholar.google.com/citations?hl=en&user=RPlTFuIAAAAJ
-"나기리":
-  - firstname: 
     url: https://scholar.google.com/citations?hl=en&user=RPlTFuIAAAAJ
 
 # "bach":
