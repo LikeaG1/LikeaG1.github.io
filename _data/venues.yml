@@ -1,15 +1,24 @@
-"XR":
-  # url: https://aapt.scitation.org/journal/ajp
-  color: "#00D2FF"
-
-"IVA":
+"Journal":
   color: "#b509ac"
 
-"Deep Learning":
-  color: "#009f36"
+"Poster":
+  color: "#00D2FF"
 
-"Computer Graphics":
+"Patent":
   color: "#ff5b00"
+
+# "XR":
+#   # url: https://aapt.scitation.org/journal/ajp
+#   color: "#00D2FF"
+
+# "IVA":
+#   color: "#b509ac"
+
+# "Deep Learning":
+#   color: "#009f36"
+
+# "Computer Graphics":
+#   color: "#ff5b00"
 
 # Navy - 00369f
 # Magenta - #b509ac
