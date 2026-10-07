@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, hello, hello!
+안녕하세요!
 
 I'm a PhD student in the Department of Information and Computer Engineering at [Hansung University](https://hansung.ac.kr/hansung/index.do), South Korea, and my adviser is Prof. [Jinmo Kim](https://scholar.google.com/citations?user=wiWSKyQAAAAJ&hl=en). I received the BE degree from the Department of Software, [Catholic University of Pusan](https://www.cup.ac.kr/main.do#) in 2018, and the MS degree from the [Graduate School of Culture Technology (GSCT)](https://ct.kaist.ac.kr/) at [Korea Advanced Institute of Science & Technology (KAIST)](https://www.kaist.ac.kr/en/) in 2021, where I was advised by Prof. [Junyong Noh](https://scholar.google.com/citations?user=u75_aBgAAAAJ&hl=en).
 
